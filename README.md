@@ -1,2 +1,2 @@
-# myliff
-Only A Public Liff
+# liff
+Public Liff
